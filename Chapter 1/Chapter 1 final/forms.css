@@ -1,0 +1,43 @@
+body {
+    background-color: powderblue;
+}
+
+header {
+    background-color: black;
+    height: 100px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {float:left}
+
+.pr1nsbook {
+    font-size: 70px;
+    background-color: black;
+    padding-top: 15px;
+}
+
+.pr1nsbook a:link{
+    color:goldenrod;
+    text-decoration: none;
+}
+.pr1nsbook a:hover{color:gold}
+.pr1nsbook a:visited{color:goldenrod}
+
+.login {
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    
+}
+
+table {border:5px solid black;}
+
+#details {
+    padding: 60px;
+    display: flex;
+    text-align: center;
+}

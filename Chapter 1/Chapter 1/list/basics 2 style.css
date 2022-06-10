@@ -1,0 +1,13 @@
+body{background-image: url('dota.jpg');
+     background-attachment:fixed;}
+h1{font-size:50px;font-family:Arial;background-color: lightblue;}
+h2{text-align:center;color:white;background-color:lightblue;font-size:30px;margin:0px}
+pre{font-family:arial;font-style:italic;margin:0px;text-align: center;}
+p{text-align:center;}
+img{border:20px solid pink}
+a:link{color:white;
+       background-color: transparent;
+       text-decoration:none;}
+a:visited{color:white}
+a:hover{color:blue}
+a:active{color:green}

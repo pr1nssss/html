@@ -1,0 +1,41 @@
+body{
+    background-color: pink;
+}
+h1{
+    margin-bottom: 20px;
+}
+ul{
+    list-style-type: none;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+
+
+}
+li{
+    float:left;
+    width:25%;
+    text-align: left;
+}
+table{
+    width: 100%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+a:link{
+    color:black
+}
+a:visited{
+    color:black
+}
+a:hover{
+    background-color:black;
+    color:white
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+  }

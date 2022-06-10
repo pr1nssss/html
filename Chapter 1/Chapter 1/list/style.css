@@ -1,0 +1,17 @@
+body {color:red;
+      background-image: url(alc.jpg);
+      background-attachment: fixed;
+      background-size: cover;
+      text-align: left;
+      }
+h1 {color:white;
+    padding:0px;
+    margin:5px}
+h6 {color:green;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    border:2px dotted black;
+    padding:0px;
+    margin:0px}
+p  {padding:0px;
+    margin:0px}
